@@ -229,7 +229,7 @@ A wide variety of companies and organizations use APISIX API Gateway for researc
 - WPS
 - XPENG
 - Zoom
-- SHZY
+- [SHZY](https://www.zylinkus.com)
 
 ## Landscape
 
