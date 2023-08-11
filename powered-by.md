@@ -126,3 +126,7 @@ Using Apache APISIX as a Web ACL gateway to deal with backend OA systems traffic
 ## HelloTalk, Inc.
 
 Using Apache APISIX as an API gateway to manage all API and SSL certificates in test\dev\CMS environment.
+
+## SHZY Inc.
+
+Using Apache Apisix as an proxy gateway to all API,TCP,UDP
